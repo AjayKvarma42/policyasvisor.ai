@@ -1,0 +1,203 @@
+policy_id,policy_name,buying_link
+H001,Star Basic Health,https://www.starhealth.in/health-insurance/
+H002,Star Family Health Optima,https://www.starhealth.in/health-insurance/
+H003,Niva Senior Secure,https://www.nivabupa.com/health-insurance.html
+H004,HDFC Health Suraksha,https://www.hdfcergo.com/health-insurance
+H005,Care Youth Plan,https://www.careinsurance.com/health-insurance.html
+H006,ICICI Complete Health,https://www.icicilombard.com/health-insurance
+H007,Bupa Young Care,https://www.nivabupa.com/health-insurance.html
+H008,HDFC Senior Secure,https://www.hdfcergo.com/health-insurance
+H009,Care Advantage,https://www.careinsurance.com/health-insurance.html
+H010,Star Health Plus,https://www.starhealth.in/health-insurance/
+H011,Star Comprehensive,https://www.starhealth.in/health-insurance/
+H012,Niva Health Secure,https://www.nivabupa.com/health-insurance.html
+H013,HDFC Young Health,https://www.hdfcergo.com/health-insurance
+H014,Care Family Plus,https://www.careinsurance.com/health-insurance.html
+H015,ICICI Health Boost,https://www.icicilombard.com/health-insurance
+H016,Star Health Premium,https://www.starhealth.in/health-insurance/
+H017,Niva Health Lite,https://www.nivabupa.com/health-insurance.html
+H018,HDFC Optima Secure,https://www.hdfcergo.com/health-insurance
+H019,Care Secure Plus,https://www.careinsurance.com/health-insurance.html
+H020,ICICI Health AdvantEdge,https://www.icicilombard.com/health-insurance
+H021,Star Medi Assist,https://www.starhealth.in/health-insurance/
+H022,Niva Health Plus,https://www.nivabupa.com/health-insurance.html
+H023,HDFC Health Infinity,https://www.hdfcergo.com/health-insurance
+H024,Care Easy Health,https://www.careinsurance.com/health-insurance.html
+H025,ICICI Health Max,https://www.icicilombard.com/health-insurance
+H026,Star Medi Classic,https://www.starhealth.in/health-insurance/
+H027,Niva Care Plus,https://www.nivabupa.com/health-insurance.html
+H028,HDFC Health Advance,https://www.hdfcergo.com/health-insurance
+H029,Care Starter Health,https://www.careinsurance.com/health-insurance.html
+H030,ICICI Health Elite,https://www.icicilombard.com/health-insurance
+H031,Star Platinum Health,https://www.starhealth.in/health-insurance/
+H032,Niva Health Smart,https://www.nivabupa.com/health-insurance.html
+H033,HDFC Secure Health,https://www.hdfcergo.com/health-insurance
+H034,Care Value Health,https://www.careinsurance.com/health-insurance.html
+H035,ICICI Health Prime,https://www.icicilombard.com/health-insurance
+H036,Star Basic Care,https://www.starhealth.in/health-insurance/
+H037,Niva Health Boost,https://www.nivabupa.com/health-insurance.html
+H038,HDFC Health Shield,https://www.hdfcergo.com/health-insurance
+H039,Care Health Plus,https://www.careinsurance.com/health-insurance.html
+H040,ICICI Health Ultra,https://www.icicilombard.com/health-insurance
+H041,Star Elite Health,https://www.starhealth.in/health-insurance/
+H042,Niva Secure Plus,https://www.nivabupa.com/health-insurance.html
+H043,HDFC Health Legal,https://www.hdfcergo.com/health-insurance
+H044,Care Smart Health,https://www.careinsurance.com/health-insurance.html
+H045,ICICI Health Supreme,https://www.icicilombard.com/health-insurance
+H046,Star Health Advance,https://www.starhealth.in/health-insurance/
+H047,Niva Health Prime,https://www.nivabupa.com/health-insurance.html
+H048,HDFC Health Elite,https://www.hdfcergo.com/health-insurance
+H049,Care Health Supreme,https://www.careinsurance.com/health-insurance.html
+H050,ICICI Health Ultimate,https://www.icicilombard.com/health-insurance
+C001,Car Protect Plus,https://www.icicilombard.com/car-insurance
+C002,Bajaj Car Shield,https://www.bajajallianz.com/motor-insurance/car-insurance.html
+C003,Tata Motor Secure,https://www.tataaig.com/motor-insurance/car-insurance
+C004,Acko Smart Drive,https://www.acko.com/car-insurance/
+C005,HDFC Car Secure,https://www.hdfcergo.com/car-insurance
+C006,ICICI Platinum Car,https://www.icicilombard.com/car-insurance
+C007,Bajaj Budget Car,https://www.bajajallianz.com/motor-insurance/car-insurance.html
+C008,Tata Premium Drive,https://www.tataaig.com/motor-insurance/car-insurance
+C009,Acko Drive Plus,https://www.acko.com/car-insurance/
+C010,HDFC Motor Protect,https://www.hdfcergo.com/car-insurance
+C011,ICICI Smart Drive,https://www.icicilombard.com/car-insurance
+C012,Bajaj Drive Secure,https://www.bajajallianz.com/motor-insurance/car-insurance.html
+C013,Tata Auto Secure,https://www.tataaig.com/motor-insurance/car-insurance
+C014,Acko Easy Drive,https://www.acko.com/car-insurance/
+C015,HDFC Auto Shield,https://www.hdfcergo.com/car-insurance
+C016,ICICI Car Elite,https://www.icicilombard.com/car-insurance
+C017,Bajaj Drive Smart,https://www.bajajallianz.com/motor-insurance/car-insurance.html
+C018,Tata Secure Drive,https://www.tataaig.com/motor-insurance/car-insurance
+C019,Acko Drive Safe,https://www.acko.com/car-insurance/
+C020,HDFC Car Advantage,https://www.hdfcergo.com/car-insurance
+C021,ICICI Car Prime,https://www.icicilombard.com/car-insurance
+C022,Bajaj Drive Plus,https://www.bajajallianz.com/motor-insurance/car-insurance.html
+C023,Tata Drive Secure,https://www.tataaig.com/motor-insurance/car-insurance
+C024,Acko Drive Smart,https://www.acko.com/car-insurance/
+C025,HDFC Car Secure Plus,https://www.hdfcergo.com/car-insurance
+C026,ICICI Car Ultra,https://www.icicilombard.com/car-insurance
+C027,Bajaj Auto Protect,https://www.bajajallianz.com/motor-insurance/car-insurance.html
+C028,Tata Motor Plus,https://www.tataaig.com/motor-insurance/car-insurance
+C029,Acko Drive Mini,https://www.acko.com/car-insurance/
+C030,HDFC Car Elite,https://www.hdfcergo.com/car-insurance
+C031,ICICI Car Supreme,https://www.icicilombard.com/car-insurance
+C032,Bajaj Car Advantage,https://www.bajajallianz.com/motor-insurance/car-insurance.html
+C033,Tata Auto Prime,https://www.tataaig.com/motor-insurance/car-insurance
+C034,Acko Drive Pro,https://www.acko.com/car-insurance/
+C035,HDFC Car Max,https://www.hdfcergo.com/car-insurance
+C036,ICICI Car Tech,https://www.icicilombard.com/car-insurance
+C037,Bajaj Drive Care,https://www.bajajallianz.com/motor-insurance/car-insurance.html
+C038,Tata Auto Shield,https://www.tataaig.com/motor-insurance/car-insurance
+C039,Acko Drive Plus Pro,https://www.acko.com/car-insurance/
+C040,HDFC Car Supreme,https://www.hdfcergo.com/car-insurance
+C041,ICICI Car Apex,https://www.icicilombard.com/car-insurance
+C042,Bajaj Auto Secure,https://www.bajajallianz.com/motor-insurance/car-insurance.html
+C043,Tata Drive Protect,https://www.tataaig.com/motor-insurance/car-insurance
+C044,Acko Drive Flex,https://www.acko.com/car-insurance/
+C045,HDFC Car Secure Max,https://www.hdfcergo.com/car-insurance
+C046,ICICI Car Ultimate,https://www.icicilombard.com/car-insurance
+C047,Bajaj Car Assist,https://www.bajajallianz.com/motor-insurance/car-insurance.html
+C048,Tata Auto Advantage,https://www.tataaig.com/motor-insurance/car-insurance
+C049,Acko Drive Research,https://www.acko.com/car-insurance/
+C050,HDFC Car Ultimate,https://www.hdfcergo.com/car-insurance
+policy_id,policy_name,buying_link
+B001,Bike Shield,https://www.bajajallianz.com/motor-insurance/two-wheeler-insurance.html
+B002,ICICI Bike Basic,https://www.icicilombard.com/two-wheeler-insurance
+B003,Tata Bike Start,https://www.tataaig.com/motor-insurance/two-wheeler-insurance
+B004,Acko Bike Smart,https://www.acko.com/two-wheeler-insurance/
+B005,HDFC Bike Protect,https://www.hdfcergo.com/two-wheeler-insurance
+B006,Bajaj Ride Secure,https://www.bajajallianz.com/motor-insurance/two-wheeler-insurance.html
+B007,ICICI Bike Plus,https://www.icicilombard.com/two-wheeler-insurance
+B008,Tata Bike Secure,https://www.tataaig.com/motor-insurance/two-wheeler-insurance
+B009,Acko Ride Safe,https://www.acko.com/two-wheeler-insurance/
+B010,HDFC Bike Elite,https://www.hdfcergo.com/two-wheeler-insurance
+B011,Bajaj Bike Basic,https://www.bajajallianz.com/motor-insurance/two-wheeler-insurance.html
+B012,ICICI Bike Smart,https://www.icicilombard.com/two-wheeler-insurance
+B013,Tata Ride Secure,https://www.tataaig.com/motor-insurance/two-wheeler-insurance
+B014,Acko Ride Easy,https://www.acko.com/two-wheeler-insurance/
+B015,HDFC Bike Advantage,https://www.hdfcergo.com/two-wheeler-insurance
+B016,Bajaj Ride Plus,https://www.bajajallianz.com/motor-insurance/two-wheeler-insurance.html
+B017,ICICI Bike Secure,https://www.icicilombard.com/two-wheeler-insurance
+B018,Tata Ride Start,https://www.tataaig.com/motor-insurance/two-wheeler-insurance
+B019,Acko Ride Plus,https://www.acko.com/two-wheeler-insurance/
+B020,HDFC Bike Secure Max,https://www.hdfcergo.com/two-wheeler-insurance
+B021,Bajaj Bike Smart,https://www.bajajallianz.com/motor-insurance/two-wheeler-insurance.html
+B022,ICICI Two Wheeler Elite,https://www.icicilombard.com/two-wheeler-insurance
+B023,Tata Bike Plus,https://www.tataaig.com/motor-insurance/two-wheeler-insurance
+B024,Acko Bike Easy,https://www.acko.com/two-wheeler-insurance/
+B025,HDFC Bike Prime,https://www.hdfcergo.com/two-wheeler-insurance
+B026,Bajaj Ride Care,https://www.bajajallianz.com/motor-insurance/two-wheeler-insurance.html
+B027,ICICI Bike Pro,https://www.icicilombard.com/two-wheeler-insurance
+B028,Tata Bike Entry,https://www.tataaig.com/motor-insurance/two-wheeler-insurance
+B029,Acko Ride Smart,https://www.acko.com/two-wheeler-insurance/
+B030,HDFC Bike Ultra,https://www.hdfcergo.com/two-wheeler-insurance
+B031,Bajaj Bike Plus,https://www.bajajallianz.com/motor-insurance/two-wheeler-insurance.html
+B032,ICICI Bike Supreme,https://www.icicilombard.com/two-wheeler-insurance
+B033,Tata Ride Basic,https://www.tataaig.com/motor-insurance/two-wheeler-insurance
+B034,Acko Ride Start,https://www.acko.com/two-wheeler-insurance/
+B035,HDFC Bike Elite Plus,https://www.hdfcergo.com/two-wheeler-insurance
+B036,Bajaj Ride Assist,https://www.bajajallianz.com/motor-insurance/two-wheeler-insurance.html
+B037,ICICI Bike Tech,https://www.icicilombard.com/two-wheeler-insurance
+B038,Tata Bike Advantage,https://www.tataaig.com/motor-insurance/two-wheeler-insurance
+B039,Acko Ride Pro,https://www.acko.com/two-wheeler-insurance/
+B040,HDFC Bike Ultimate,https://www.hdfcergo.com/two-wheeler-insurance
+B041,Bajaj Bike Guard,https://www.bajajallianz.com/motor-insurance/two-wheeler-insurance.html
+B042,ICICI Bike Dev,https://www.icicilombard.com/two-wheeler-insurance
+B043,Tata Bike Secure Plus,https://www.tataaig.com/motor-insurance/two-wheeler-insurance
+B044,Acko Ride Mini,https://www.acko.com/two-wheeler-insurance/
+B045,HDFC Bike Supreme,https://www.hdfcergo.com/two-wheeler-insurance
+B046,Bajaj Bike Max,https://www.bajajallianz.com/motor-insurance/two-wheeler-insurance.html
+B047,ICICI Bike Cloud,https://www.icicilombard.com/two-wheeler-insurance
+B048,Tata Ride Plus,https://www.tataaig.com/motor-insurance/two-wheeler-insurance
+B049,Acko Ride SEO,https://www.acko.com/two-wheeler-insurance/
+B050,HDFC Bike Ultimate Pro,https://www.hdfcergo.com/two-wheeler-insurance
+policy_id,policy_name,buying_link
+L001,HDFC Term Secure,https://www.hdfclife.com/term-insurance-plans
+L002,ICICI iProtect,https://www.iciciprulife.com/term-insurance-plans.html
+L003,LIC Jeevan Anand,https://licindia.in/web/guest/lic-s-portal
+L004,Max Life Smart Secure,https://www.maxlifeinsurance.com/term-insurance-plans
+L005,Tata Sampoorna Raksha,https://www.tataaia.com/life-insurance-plans/term-insurance.html
+L006,LIC Jeevan Shanti,https://licindia.in/web/guest/lic-s-portal
+L007,HDFC Click 2 Protect,https://www.hdfclife.com/term-insurance-plans
+L008,ICICI Income Protect,https://www.iciciprulife.com/term-insurance-plans.html
+L009,Max Life Online Term,https://www.maxlifeinsurance.com/term-insurance-plans
+L010,Tata AIA Senior Life,https://www.tataaia.com/life-insurance-plans/term-insurance.html
+L011,HDFC Life Pro,https://www.hdfclife.com/term-insurance-plans
+L012,ICICI Life Elite,https://www.iciciprulife.com/term-insurance-plans.html
+L013,LIC Jeevan Labh,https://licindia.in/web/guest/lic-s-portal
+L014,Max Life Startup Secure,https://www.maxlifeinsurance.com/term-insurance-plans
+L015,Tata Life Supreme,https://www.tataaia.com/life-insurance-plans/term-insurance.html
+L016,LIC Jeevan Rakshak,https://licindia.in/web/guest/lic-s-portal
+L017,HDFC Life Elite,https://www.hdfclife.com/term-insurance-plans
+L018,ICICI Wealth Secure,https://www.iciciprulife.com/term-insurance-plans.html
+L019,Max Life Income Plus,https://www.maxlifeinsurance.com/term-insurance-plans
+L020,Tata AIA Golden Life,https://www.tataaia.com/life-insurance-plans/term-insurance.html
+L021,HDFC Term Elite,https://www.hdfclife.com/term-insurance-plans
+L022,ICICI Life Secure Plus,https://www.iciciprulife.com/term-insurance-plans.html
+L023,LIC Jeevan Pragati,https://licindia.in/web/guest/lic-s-portal
+L024,Max Life Growth Secure,https://www.maxlifeinsurance.com/term-insurance-plans
+L025,Tata Life Platinum,https://www.tataaia.com/life-insurance-plans/term-insurance.html
+L026,LIC Jeevan Suraksha,https://licindia.in/web/guest/lic-s-portal
+L027,HDFC Life AI Secure,https://www.hdfclife.com/term-insurance-plans
+L028,ICICI Portfolio Life,https://www.iciciprulife.com/term-insurance-plans.html
+L029,Max Life Income Elite,https://www.maxlifeinsurance.com/term-insurance-plans
+L030,Tata AIA Secure Senior,https://www.tataaia.com/life-insurance-plans/term-insurance.html
+L031,HDFC DevOps Term,https://www.hdfclife.com/term-insurance-plans
+L032,ICICI Wealth Elite,https://www.iciciprulife.com/term-insurance-plans.html
+L033,LIC Jeevan Shreshtha,https://licindia.in/web/guest/lic-s-portal
+L034,Max Life Creative Secure,https://www.maxlifeinsurance.com/term-insurance-plans
+L035,Tata Life Ultimate,https://www.tataaia.com/life-insurance-plans/term-insurance.html
+L036,LIC Jeevan Raksha Plus,https://licindia.in/web/guest/lic-s-portal
+L037,HDFC Life CTO Secure,https://www.hdfclife.com/term-insurance-plans
+L038,ICICI Fund Life,https://www.iciciprulife.com/term-insurance-plans.html
+L039,Max Life Ops Elite,https://www.maxlifeinsurance.com/term-insurance-plans
+L040,Tata AIA Legacy Secure,https://www.tataaia.com/life-insurance-plans/term-insurance.html
+L041,HDFC Architect Term,https://www.hdfclife.com/term-insurance-plans
+L042,ICICI HR Elite,https://www.iciciprulife.com/term-insurance-plans.html
+L043,LIC Jeevan Uday,https://licindia.in/web/guest/lic-s-portal
+L044,Max Life Strategy Secure,https://www.maxlifeinsurance.com/term-insurance-plans
+L045,Tata Life Supreme Plus,https://www.tataaia.com/life-insurance-plans/term-insurance.html
+L046,LIC Jeevan Apex,https://licindia.in/web/guest/lic-s-portal
+L047,HDFC VP Secure,https://www.hdfclife.com/term-insurance-plans
+L048,ICICI CIO Life,https://www.iciciprulife.com/term-insurance-plans.html
+L049,Max Life Legacy Elite,https://www.maxlifeinsurance.com/term-insurance-plans
+L050,Tata AIA Legacy Ultimate,https://www.tataaia.com/life-insurance-plans/term-insurance.html

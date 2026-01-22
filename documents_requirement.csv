@@ -1,0 +1,202 @@
+policy_id,policy_name,required_documents
+H001,Star Basic Health,Aadhaar Card;PAN Card;Address Proof;Income Proof
+H002,Star Family Health Optima,Aadhaar Card;PAN Card;Address Proof;Income Proof
+H003,Niva Senior Secure,Aadhaar Card;PAN Card;Address Proof;Income Proof;Medical Reports
+H004,HDFC Health Suraksha,Aadhaar Card;PAN Card;Address Proof;Income Proof
+H005,Care Youth Plan,Aadhaar Card;Address Proof
+H006,ICICI Complete Health,Aadhaar Card;PAN Card;Address Proof;Income Proof;Medical Reports
+H007,Bupa Young Care,Aadhaar Card;PAN Card;Address Proof
+H008,HDFC Senior Secure,Aadhaar Card;PAN Card;Address Proof;Income Proof;Medical Reports
+H009,Care Advantage,Aadhaar Card;PAN Card;Address Proof;Income Proof
+H010,Star Health Plus,Aadhaar Card;PAN Card;Address Proof
+H011,Star Comprehensive,Aadhaar Card;PAN Card;Address Proof;Income Proof
+H012,Niva Health Secure,Aadhaar Card;PAN Card;Address Proof;Income Proof
+H013,HDFC Young Health,Aadhaar Card;Address Proof
+H014,Care Family Plus,Aadhaar Card;PAN Card;Address Proof;Income Proof
+H015,ICICI Health Boost,Aadhaar Card;PAN Card;Address Proof;Income Proof
+H016,Star Health Premium,Aadhaar Card;PAN Card;Address Proof;Income Proof
+H017,Niva Health Lite,Aadhaar Card;PAN Card;Address Proof
+H018,HDFC Optima Secure,Aadhaar Card;PAN Card;Address Proof;Income Proof
+H019,Care Secure Plus,Aadhaar Card;Address Proof
+H020,ICICI Health AdvantEdge,Aadhaar Card;PAN Card;Address Proof;Income Proof
+H021,Star Medi Assist,Aadhaar Card;PAN Card;Address Proof;Income Proof
+H022,Niva Health Plus,Aadhaar Card;PAN Card;Address Proof;Income Proof
+H023,HDFC Health Infinity,Aadhaar Card;PAN Card;Address Proof;Income Proof
+H024,Care Easy Health,Aadhaar Card;PAN Card;Address Proof
+H025,ICICI Health Max,Aadhaar Card;PAN Card;Address Proof;Income Proof
+H026,Star Medi Classic,Aadhaar Card;PAN Card;Address Proof
+H027,Niva Care Plus,Aadhaar Card;PAN Card;Address Proof
+H028,HDFC Health Advance,Aadhaar Card;PAN Card;Address Proof;Income Proof
+H029,Care Starter Health,Aadhaar Card;Address Proof
+H030,ICICI Health Elite,Aadhaar Card;PAN Card;Address Proof;Income Proof
+H031,Star Platinum Health,Aadhaar Card;PAN Card;Address Proof;Income Proof
+H032,Niva Health Smart,Aadhaar Card;PAN Card;Address Proof
+H033,HDFC Secure Health,Aadhaar Card;PAN Card;Address Proof;Income Proof
+H034,Care Value Health,Aadhaar Card;PAN Card;Address Proof
+H035,ICICI Health Prime,Aadhaar Card;PAN Card;Address Proof;Income Proof
+H036,Star Basic Care,Aadhaar Card;Address Proof
+H037,Niva Health Boost,Aadhaar Card;PAN Card;Address Proof
+H038,HDFC Health Shield,Aadhaar Card;PAN Card;Address Proof;Income Proof
+H039,Care Health Plus,Aadhaar Card;PAN Card;Address Proof;Income Proof
+H040,ICICI Health Ultra,Aadhaar Card;PAN Card;Address Proof;Income Proof
+H041,Star Elite Health,Aadhaar Card;PAN Card;Address Proof;Income Proof
+H042,Niva Secure Plus,Aadhaar Card;PAN Card;Address Proof;Income Proof
+H043,HDFC Health Legal,Aadhaar Card;PAN Card;Address Proof;Income Proof
+H044,Care Smart Health,Aadhaar Card;PAN Card;Address Proof
+H045,ICICI Health Supreme,Aadhaar Card;PAN Card;Address Proof;Income Proof
+H046,Star Health Advance,Aadhaar Card;PAN Card;Address Proof;Income Proof
+H047,Niva Health Prime,Aadhaar Card;PAN Card;Address Proof;Income Proof
+H048,HDFC Health Elite,Aadhaar Card;PAN Card;Address Proof;Income Proof
+H049,Care Health Supreme,Aadhaar Card;PAN Card;Address Proof;Income Proof
+H050,ICICI Health Ultimate,Aadhaar Card;PAN Card;Address Proof;Income Proof
+C001,Car Protect Plus,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+C002,Bajaj Car Shield,RC Book;Driving License;Aadhaar Card
+C003,Tata Motor Secure,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+C004,Acko Smart Drive,RC Book;Driving License;Aadhaar Card
+C005,HDFC Car Secure,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+C006,ICICI Platinum Car,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+C007,Bajaj Budget Car,RC Book;Driving License;Aadhaar Card
+C008,Tata Premium Drive,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+C009,Acko Drive Plus,RC Book;Driving License;Aadhaar Card
+C010,HDFC Motor Protect,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+C011,ICICI Smart Drive,RC Book;Driving License;Aadhaar Card
+C012,Bajaj Drive Secure,RC Book;Driving License;Aadhaar Card
+C013,Tata Auto Secure,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+C014,Acko Easy Drive,RC Book;Driving License;Aadhaar Card
+C015,HDFC Auto Shield,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+C016,ICICI Car Elite,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+C017,Bajaj Drive Smart,RC Book;Driving License;Aadhaar Card
+C018,Tata Secure Drive,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+C019,Acko Drive Safe,RC Book;Driving License;Aadhaar Card
+C020,HDFC Car Advantage,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+C021,ICICI Car Prime,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+C022,Bajaj Drive Plus,RC Book;Driving License;Aadhaar Card
+C023,Tata Drive Secure,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+C024,Acko Drive Smart,RC Book;Driving License;Aadhaar Card
+C025,HDFC Car Secure Plus,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+C026,ICICI Car Ultra,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+C027,Bajaj Auto Protect,RC Book;Driving License;Aadhaar Card
+C028,Tata Motor Plus,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+C029,Acko Drive Mini,RC Book;Driving License;Aadhaar Card
+C030,HDFC Car Elite,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+C031,ICICI Car Supreme,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+C032,Bajaj Car Advantage,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+C033,Tata Auto Prime,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+C034,Acko Drive Pro,RC Book;Driving License;Aadhaar Card
+C035,HDFC Car Max,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+C036,ICICI Car Tech,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+C037,Bajaj Drive Care,RC Book;Driving License;Aadhaar Card
+C038,Tata Auto Shield,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+C039,Acko Drive Plus Pro,RC Book;Driving License;Aadhaar Card
+C040,HDFC Car Supreme,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+C041,ICICI Car Apex,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+C042,Bajaj Auto Secure,RC Book;Driving License;Aadhaar Card
+C043,Tata Drive Protect,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+C044,Acko Drive Flex,RC Book;Driving License;Aadhaar Card
+C045,HDFC Car Secure Max,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+C046,ICICI Car Ultimate,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+C047,Bajaj Car Assist,RC Book;Driving License;Aadhaar Card
+C048,Tata Auto Advantage,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+C049,Acko Drive Research,RC Book;Driving License;Aadhaar Card
+C050,HDFC Car Ultimate,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+B001,Bike Shield,RC Book;Driving License;Aadhaar Card
+B002,ICICI Bike Basic,RC Book;Driving License;Aadhaar Card
+B003,Tata Bike Start,RC Book;Driving License;Aadhaar Card
+B004,Acko Bike Smart,RC Book;Driving License;Aadhaar Card
+B005,HDFC Bike Protect,RC Book;Driving License;Aadhaar Card
+B006,Bajaj Ride Secure,RC Book;Driving License;Aadhaar Card
+B007,ICICI Bike Plus,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+B008,Tata Bike Secure,RC Book;Driving License;Aadhaar Card
+B009,Acko Ride Safe,RC Book;Driving License;Aadhaar Card
+B010,HDFC Bike Elite,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+B011,Bajaj Bike Basic,RC Book;Driving License;Aadhaar Card
+B012,ICICI Bike Smart,RC Book;Driving License;Aadhaar Card
+B013,Tata Ride Secure,RC Book;Driving License;Aadhaar Card
+B014,Acko Ride Easy,RC Book;Driving License;Aadhaar Card
+B015,HDFC Bike Advantage,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+B016,Bajaj Ride Plus,RC Book;Driving License;Aadhaar Card
+B017,ICICI Bike Secure,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+B018,Tata Ride Start,RC Book;Driving License;Aadhaar Card
+B019,Acko Ride Plus,RC Book;Driving License;Aadhaar Card
+B020,HDFC Bike Secure Max,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+B021,Bajaj Bike Smart,RC Book;Driving License;Aadhaar Card
+B022,ICICI Two Wheeler Elite,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+B023,Tata Bike Plus,RC Book;Driving License;Aadhaar Card
+B024,Acko Bike Easy,RC Book;Driving License;Aadhaar Card
+B025,HDFC Bike Prime,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+B026,Bajaj Ride Care,RC Book;Driving License;Aadhaar Card
+B027,ICICI Bike Pro,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+B028,Tata Bike Entry,RC Book;Driving License;Aadhaar Card
+B029,Acko Ride Smart,RC Book;Driving License;Aadhaar Card
+B030,HDFC Bike Ultra,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+B031,Bajaj Bike Plus,RC Book;Driving License;Aadhaar Card
+B032,ICICI Bike Supreme,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+B033,Tata Ride Basic,RC Book;Driving License;Aadhaar Card
+B034,Acko Ride Start,RC Book;Driving License;Aadhaar Card
+B035,HDFC Bike Elite Plus,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+B036,Bajaj Ride Assist,RC Book;Driving License;Aadhaar Card
+B037,ICICI Bike Tech,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+B038,Tata Bike Advantage,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+B039,Acko Ride Pro,RC Book;Driving License;Aadhaar Card
+B040,HDFC Bike Ultimate,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+B041,Bajaj Bike Guard,RC Book;Driving License;Aadhaar Card
+B042,ICICI Bike Dev,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+B043,Tata Bike Secure Plus,RC Book;Driving License;Aadhaar Card
+B044,Acko Ride Mini,RC Book;Driving License;Aadhaar Card
+B045,HDFC Bike Supreme,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+B046,Bajaj Bike Max,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+B047,ICICI Bike Cloud,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+B048,Tata Ride Plus,RC Book;Driving License;Aadhaar Card
+B049,Acko Ride SEO,RC Book;Driving License;Aadhaar Card
+B050,HDFC Bike Ultimate Pro,RC Book;Driving License;Aadhaar Card;Previous Policy Document
+L001,HDFC Term Secure,Aadhaar Card;PAN Card;Address Proof;Income Proof
+L002,ICICI iProtect,Aadhaar Card;PAN Card;Address Proof;Income Proof;Medical Reports;Existing Policy Document
+L003,LIC Jeevan Anand,Aadhaar Card;PAN Card;Address Proof;Income Proof
+L004,Max Life Smart Secure,Aadhaar Card;PAN Card;Address Proof;Income Proof;Existing Policy Document
+L005,Tata Sampoorna Raksha,Aadhaar Card;PAN Card;Address Proof;Income Proof;Medical Reports;Existing Policy Document
+L006,LIC Jeevan Shanti,Aadhaar Card;PAN Card;Address Proof;Income Proof;Existing Policy Document
+L007,HDFC Click 2 Protect,Aadhaar Card;PAN Card;Address Proof
+L008,ICICI Income Protect,Aadhaar Card;PAN Card;Address Proof;Income Proof;Medical Reports;Existing Policy Document
+L009,Max Life Online Term,Aadhaar Card;PAN Card;Address Proof;Income Proof
+L010,Tata AIA Senior Life,Aadhaar Card;PAN Card;Address Proof;Income Proof;Existing Policy Document
+L011,HDFC Life Pro,Aadhaar Card;PAN Card;Address Proof;Income Proof;Medical Reports;Existing Policy Document
+L012,ICICI Life Elite,Aadhaar Card;PAN Card;Address Proof;Income Proof;Medical Reports;Existing Policy Document
+L013,LIC Jeevan Labh,Aadhaar Card;PAN Card;Address Proof;Income Proof
+L014,Max Life Startup Secure,Aadhaar Card;PAN Card;Address Proof;Income Proof;Existing Policy Document
+L015,Tata Life Supreme,Aadhaar Card;PAN Card;Address Proof;Income Proof;Medical Reports;Existing Policy Document
+L016,LIC Jeevan Rakshak,Aadhaar Card;PAN Card;Address Proof;Income Proof;Existing Policy Document
+L017,HDFC Life Elite,Aadhaar Card;PAN Card;Address Proof;Income Proof;Medical Reports;Existing Policy Document
+L018,ICICI Wealth Secure,Aadhaar Card;PAN Card;Address Proof;Income Proof;Medical Reports;Existing Policy Document
+L019,Max Life Income Plus,Aadhaar Card;PAN Card;Address Proof;Income Proof;Medical Reports;Existing Policy Document
+L020,Tata AIA Golden Life,Aadhaar Card;PAN Card;Address Proof;Income Proof;Existing Policy Document
+L021,HDFC Term Elite,Aadhaar Card;PAN Card;Address Proof;Income Proof;Medical Reports;Existing Policy Document
+L022,ICICI Life Secure Plus,Aadhaar Card;PAN Card;Address Proof;Income Proof;Existing Policy Document
+L023,LIC Jeevan Pragati,Aadhaar Card;PAN Card;Address Proof;Income Proof
+L024,Max Life Growth Secure,Aadhaar Card;PAN Card;Address Proof;Income Proof;Medical Reports;Existing Policy Document
+L025,Tata Life Platinum,Aadhaar Card;PAN Card;Address Proof;Income Proof;Medical Reports;Existing Policy Document
+L026,LIC Jeevan Suraksha,Aadhaar Card;PAN Card;Address Proof;Income Proof;Existing Policy Document
+L027,HDFC Life AI Secure,Aadhaar Card;PAN Card;Address Proof;Income Proof;Medical Reports;Existing Policy Document
+L028,ICICI Portfolio Life,Aadhaar Card;PAN Card;Address Proof;Income Proof;Medical Reports;Existing Policy Document
+L029,Max Life Income Elite,Aadhaar Card;PAN Card;Address Proof;Income Proof;Medical Reports;Existing Policy Document
+L030,Tata AIA Secure Senior,Aadhaar Card;PAN Card;Address Proof;Income Proof;Existing Policy Document
+L031,HDFC DevOps Term,Aadhaar Card;PAN Card;Address Proof;Income Proof;Medical Reports;Existing Policy Document
+L032,ICICI Wealth Elite,Aadhaar Card;PAN Card;Address Proof;Income Proof;Medical Reports;Existing Policy Document
+L033,LIC Jeevan Shreshtha,Aadhaar Card;PAN Card;Address Proof;Income Proof;Existing Policy Document
+L034,Max Life Creative Secure,Aadhaar Card;PAN Card;Address Proof;Income Proof;Medical Reports;Existing Policy Document
+L035,Tata Life Ultimate,Aadhaar Card;PAN Card;Address Proof;Income Proof;Medical Reports;Existing Policy Document
+L036,LIC Jeevan Raksha Plus,Aadhaar Card;PAN Card;Address Proof;Income Proof;Existing Policy Document
+L037,HDFC Life CTO Secure,Aadhaar Card;PAN Card;Address Proof;Income Proof;Medical Reports;Existing Policy Document
+L038,ICICI Fund Life,Aadhaar Card;PAN Card;Address Proof;Income Proof;Medical Reports;Existing Policy Document
+L039,Max Life Ops Elite,Aadhaar Card;PAN Card;Address Proof;Income Proof;Medical Reports;Existing Policy Document
+L040,Tata AIA Legacy Secure,Aadhaar Card;PAN Card;Address Proof;Income Proof;Medical Reports;Existing Policy Document
+L041,HDFC Architect Term,Aadhaar Card;PAN Card;Address Proof;Income Proof;Medical Reports;Existing Policy Document
+L042,ICICI HR Elite,Aadhaar Card;PAN Card;Address Proof;Income Proof;Medical Reports;Existing Policy Document
+L043,LIC Jeevan Uday,Aadhaar Card;PAN Card;Address Proof;Income Proof;Existing Policy Document
+L044,Max Life Strategy Secure,Aadhaar Card;PAN Card;Address Proof;Income Proof;Medical Reports;Existing Policy Document
+L045,Tata Life Supreme Plus,Aadhaar Card;PAN Card;Address Proof;Income Proof;Medical Reports;Existing Policy Document
+L046,LIC Jeevan Apex,Aadhaar Card;PAN Card;Address Proof;Income Proof;Medical Reports;Existing Policy Document
+L047,HDFC VP Secure,Aadhaar Card;PAN Card;Address Proof;Income Proof;Medical Reports;Existing Policy Document
+L048,ICICI CIO Life,Aadhaar Card;PAN Card;Address Proof;Income Proof;Medical Reports;Existing Policy Document
+L049,Max Life Legacy Elite,Aadhaar Card;PAN Card;Address Proof;Income Proof;Medical Reports;Existing Policy Document
+L050,Tata AIA Legacy Ultimate,Aadhaar Card;PAN Card;Address Proof;Income Proof;Medical Reports;Existing Policy Document
+
