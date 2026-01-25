@@ -180,6 +180,7 @@ def display_policy_details(policy_id, policy_name, documents_df, policy_buying_l
 # Recommendation Function
 # -------------------------------------------------
 def recommend_top_3_policies():
+    # User input module 
     print("\n--- Enter User Details ---")
     name=input("Name: ")
     age = int(input("Age: "))
@@ -193,6 +194,7 @@ def recommend_top_3_policies():
     existing_policy = input("Existing Policy (Yes/No): ")
     health_condition = input("Health Condition: ")
 
+    # Input processing module
     user_input = pd.DataFrame([[
         encoders["job_role"].transform([job])[0],
         salary,
@@ -215,15 +217,17 @@ def recommend_top_3_policies():
         "score": probabilities
     })
 
+    # ml analysis Module
     eligible_policies_df = df[df['insurance_type'] == encoded_insurance_type]
     filtered_results = results[results['policy_id'].isin(eligible_policies_df['policy_id'])]
-
     top_3 = filtered_results.sort_values("score", ascending=False).head(3)
     recommended_policies_info = df[df["policy_id"].isin(top_3["policy_id"])]
 
+    # Recommendation output Module
     print("\n✅ Top 3 Recommended Policies:")
     print(recommended_policies_info[["policy_id", "policy_name", "provider"]].to_string(index=False))
 
+    # AI Explanation Module
     print("\n✅ Explanation for Recommendations")
 
     available_templates = list(explanation_templates)
@@ -248,6 +252,7 @@ def recommend_top_3_policies():
 
         print(explanation)
 
+    # Documents & Purchase Link Module 
     print("\n✅ Required Documents & Buying Links")
     for i, (index, policy_row) in enumerate(recommended_policies_info.iterrows()):
         policy_name = policy_row['policy_name']
