@@ -220,6 +220,8 @@ def recommend_top_3_policies():
     # ml analysis Module
     eligible_policies_df = df[df['insurance_type'] == encoded_insurance_type]
     filtered_results = results[results['policy_id'].isin(eligible_policies_df['policy_id'])]
+    
+    # Ranking Module 
     top_3 = filtered_results.sort_values("score", ascending=False).head(3)
     recommended_policies_info = df[df["policy_id"].isin(top_3["policy_id"])]
 
